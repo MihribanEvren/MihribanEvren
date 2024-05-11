@@ -4,9 +4,9 @@
  </a>
 </div>
 
-<h5>
+<h4>
 🔭 My goal is to become a well-equipped web developer by specializing in Mern Stack.
-</h5>
+</h4>
 
 
 | React Projects             | Live Demo                                                               |
@@ -25,16 +25,16 @@
 
 <br/>
 
-<h4 align="left">Socials:</h4>
 <div align="center">
+<h3 align="left">Socials:</h3>
 <a href="https://www.linkedin.com/in/mihribanevren" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/myy_universe" target="blank"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" /></a>
 <a href="https://instagram.com/mihribann_n" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
 <br/>
-<h3 align="left">Tech Stack:</h3>
 <div align="center">
+<h3 align="left">Tech Stack:</h3>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,redux,php,laravel,c,mysql,jquery,npm,netlify" /><br>
 </div>
