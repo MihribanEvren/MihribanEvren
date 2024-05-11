@@ -7,9 +7,9 @@
 
 | React Projects             | Live Demo                                                               |
 | ----------------- | ------------------------------------------------------------------ |
-| Task List App | ![#222831](https://ma-task-list-project.netlify.app/) |
-| Image Gallery | ![#393E46](https://ma-image-gallery.netlify.app/) |
-| Currency App | ![#00ADB5](https://ma-currency-app.netlify.app/) |
+| Task List App | [Live Demo](https://ma-task-list-project.netlify.app/) |
+| Image Gallery | ![Live Demo](https://ma-image-gallery.netlify.app/) |
+| Currency App | ![Live Demo](https://ma-currency-app.netlify.app/) |
 | Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) |
 
 <h3 align="left">Languages and Tools:</h3>
