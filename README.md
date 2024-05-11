@@ -35,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihribanevren&show_icons=true&locale=en&layout=compact" alt="mihribanevren" /></p>
 
-![snake gif](https://github.com/MihribanEvren/MihribanEvren/blob/output/github-contribution-grid-snake.gif)
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
