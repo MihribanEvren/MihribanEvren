@@ -10,14 +10,6 @@
 
 <br/>
 
-| React Projects             | Live Demo                                                               |
-| ----------------- | ------------------------------------------------------------------ |
-| Task List App | [Live Demo](https://ma-task-list-project.netlify.app/) |
-| Image Gallery | [Live Demo](https://ma-image-gallery.netlify.app/) |
-| Currency App | [Live Demo](https://ma-currency-app.netlify.app/) |
-
-<br/>
-
 <table>
   <tr>
     <th>#</th>
@@ -25,24 +17,53 @@
     <th>Demo</th>
   </tr>
   <tr>
+    <td>#</td>
     <td>Task List App</td>
-    <td>Image Gallery</td>
-    <td>Currency App</td>
+    <td> <a href='https://ma-task-list-project.netlify.app/' target='_blank'>Live Demo</a> </td>
   </tr>
   <tr>
-    <td> <a href='https://ma-task-list-project.netlify.app/' target='_blank'>Live Demo</a> </td>
+    <td>#</td>
+    <td>Image Gallery</td>
     <td><a href='https://ma-image-gallery.netlify.app/' target='_blank'>Live Demo</a></td>
+  </tr>
+  <tr>
+    <td>#</td>
+    <td>Currency App</td>
     <td><a href='https://ma-currency-app.netlify.app/' target='_blank'>Live Demo</a></td>
   </tr>
 </table>
+
+<br/>
   
 
-| HTML-CSS Projects             | Live Demo                                                               |
-| ----------------- | ------------------------------------------------------------------ |
-| Movie app | [Live Demo](https://ma-movieapp-site.netlify.app/) |
-| News Site | [Live Demo](https://ma-news-site.netlify.app/) |
-| Hotel Site | [Live Demo](https://ma-hotel-site.netlify.app/) |
-| Blog Site | [Live Demo](https://ma-blog-site.netlify.app/) |
+<table>
+  <tr>
+    <th>#</th>
+    <th>HTML-CSS Projects</th>
+    <th>Demo</th>
+  </tr>
+  <tr>
+    <td>#</td>
+    <td>Movie app</td>
+    <td> <a href='https://ma-movieapp-site.netlify.app/' target='_blank'>Live Demo</a> </td>
+  </tr>
+  <tr>
+    <td>#</td>
+    <td>News Site</td>
+    <td><a href='https://ma-news-site.netlify.app/' target='_blank'>Live Demo</a></td>
+  </tr>
+  <tr>
+    <td>#</td>
+    <td>Hotel Site</td>
+    <td><a href='https://ma-hotel-site.netlify.app/' target='_blank'>Live Demo</a></td>
+  </tr>
+  <tr>
+    <td>#</td>
+    <td>Blog Site</td>
+    <td><a href='https://ma-blog-site.netlify.app/' target='_blank'>Live Demo</a></td>
+  </tr>
+</table>
+
 
 <br/>
 
