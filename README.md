@@ -24,9 +24,17 @@
 | Blog Site | [Live Demo](https://ma-blog-site.netlify.app/) |
 
 <h4 align="left">Socials:</h4>
+
+<div align="center">
 <a href="https://www.linkedin.com/in/mihribanevren" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/myy_universe" target="blank"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" /></a>
 <a href="https://instagram.com/mihribann_n" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</div>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
 
 <h3 align="left">Tech Stack:</h3>
