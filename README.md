@@ -17,6 +17,24 @@
 | Currency App | [Live Demo](https://ma-currency-app.netlify.app/) |
 
 <br/>
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>React Projects</th>
+    <th>Demo</th>
+  </tr>
+  <tr>
+    <td>Task List App</td>
+    <td>Image Gallery</td>
+    <td>Currency App</td>
+  </tr>
+  <tr>
+    <td> <a href='https://ma-task-list-project.netlify.app/' target='_blank'>Live Demo</a> </td>
+    <td><a href='https://ma-image-gallery.netlify.app/' target='_blank'>Live Demo</a></td>
+    <td><a href='https://ma-currency-app.netlify.app/' target='_blank'>Live Demo</a></td>
+  </tr>
+</table>
   
 
 | HTML-CSS Projects             | Live Demo                                                               |
