@@ -10,6 +10,7 @@
 
 <br/>
 
+<div align="center">
 <table>
   <tr>
     <th>#</th>
@@ -32,10 +33,11 @@
     <td><a href='https://ma-currency-app.netlify.app/' target='_blank'>Live Demo</a></td>
   </tr>
 </table>
-
+<div/>
+ 
 <br/>
   
-
+<div align="center">
 <table>
   <tr>
     <th>#</th>
@@ -63,7 +65,7 @@
     <td><a href='https://ma-blog-site.netlify.app/' target='_blank'>Live Demo</a></td>
   </tr>
 </table>
-
+<div/>
 
 <br/>
 
