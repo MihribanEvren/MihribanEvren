@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mihriban Evren</h1>
-
-<p align="left"> <a href="https://twitter.com/myy_universe" target="blank"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" /></a> </p>
-<p align="left"> <a href="https://instagram.com/mihribann_n" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> </p>
+<div>
 <p align="left"> <a href="https://www.linkedin.com/in/mihribanevren" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
+<p align="left"> <a href="https://twitter.com/myy_universe" target="blank"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" /></a> </p>
+<p align="left"> <a href="https://instagram.com/mihribann_n" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> </p> 
+</div>
 
-- 🔭 I’m currently working on **React**
+- 🔭 My goal is to become a well-equipped web developer by specializing in Mern Stack.
 
 - 📫 How to reach me **mihribanevrenn@gmail.com**
 
