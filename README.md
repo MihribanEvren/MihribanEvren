@@ -4,10 +4,12 @@
  </a>
 </div>
 
+<div align="center">
 <h4>
 🔭 My goal is to become a well-equipped web developer by specializing in Mern Stack.
 </h4>
-
+<div/>
+ 
 <br/>
 
 <div align="center">
