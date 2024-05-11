@@ -4,13 +4,16 @@
 
 
 
-
+<div>
 
 | React Projects             | Live Demo                                                               |
 | ----------------- | ------------------------------------------------------------------ |
 | Task List App | [Live Demo](https://ma-task-list-project.netlify.app/) |
 | Image Gallery | [Live Demo](https://ma-image-gallery.netlify.app/) |
 | Currency App | [Live Demo](https://ma-currency-app.netlify.app/) |
+  
+</div>
+
 
 <h4 align="left">Socials:</h4>
 <a href="https://www.linkedin.com/in/mihribanevren" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
