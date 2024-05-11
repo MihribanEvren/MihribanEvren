@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mihriban Evren</h1>
-- 🔭 My goal is to become a well-equipped web developer by specializing in Mern Stack.
-
+<h5>
+🔭 My goal is to become a well-equipped web developer by specializing in Mern Stack.
+</h5>
 
 
 
