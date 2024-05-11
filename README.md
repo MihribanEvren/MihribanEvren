@@ -8,12 +8,15 @@
 🔭 My goal is to become a well-equipped web developer by specializing in Mern Stack.
 </h4>
 
+<br/>
 
 | React Projects             | Live Demo                                                               |
 | ----------------- | ------------------------------------------------------------------ |
 | Task List App | [Live Demo](https://ma-task-list-project.netlify.app/) |
 | Image Gallery | [Live Demo](https://ma-image-gallery.netlify.app/) |
 | Currency App | [Live Demo](https://ma-currency-app.netlify.app/) |
+
+<br/>
   
 
 | HTML-CSS Projects             | Live Demo                                                               |
@@ -26,7 +29,7 @@
 <br/>
 
 <div align="center">
-<h3 align="left">Socials:</h3>
+<h3 align="center">Socials:</h3>
 <a href="https://www.linkedin.com/in/mihribanevren" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/myy_universe" target="blank"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" /></a>
 <a href="https://instagram.com/mihribann_n" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -34,7 +37,7 @@
 
 <br/>
 <div align="center">
-<h3 align="left">Tech Stack:</h3>
+<h3 align="center">Tech Stack:</h3>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,redux,php,laravel,c,mysql,jquery,npm,netlify" /><br>
 </div>
