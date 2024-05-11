@@ -16,7 +16,12 @@
 | Currency App | [Live Demo](https://ma-currency-app.netlify.app/) |
   
 
-
+| HTML-CSS Projects             | Live Demo                                                               |
+| ----------------- | ------------------------------------------------------------------ |
+| Movie app | [Live Demo](https://ma-movieapp-site.netlify.app/) |
+| News Site | [Live Demo](https://ma-news-site.netlify.app/) |
+| Hotel Site | [Live Demo](https://ma-hotel-site.netlify.app/) |
+| Blog Site | [Live Demo](https://ma-blog-site.netlify.app/) |
 
 <h4 align="left">Socials:</h4>
 <a href="https://www.linkedin.com/in/mihribanevren" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
