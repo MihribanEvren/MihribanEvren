@@ -24,6 +24,11 @@
     <td>Weather App</td>
     <td> <a href='https://ma-weather-app.netlify.app/' target='_blank'>Live Demo</a> </td>
   </tr>
+ <tr>
+    <td>#</td>
+    <td>Hotel Site</td>
+    <td> <a href='https://hotel-site-project.netlify.app/' target='_blank'>Live Demo</a> </td>
+  </tr>
   <tr>
     <td>#</td>
     <td>Task List App</td>
