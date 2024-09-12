@@ -35,6 +35,12 @@
     <td> <a href='https://quiz-app-r-project.netlify.app/' target='_blank'>Live Demo</a> </td>
   </tr>
  <tr>
+ <tr>
+    <td>#</td>
+    <td>Project Management App</td>
+    <td> <a href='https://project-management-app-r.netlify.app/' target='_blank'>Live Demo</a> </td>
+  </tr>
+ <tr>
     <td>#</td>
     <td>Weather App</td>
     <td> <a href='https://ma-weather-app.netlify.app/' target='_blank'>Live Demo</a> </td>
