@@ -26,7 +26,7 @@
   </tr>
  <tr>
     <td>#</td>
-    <td>Movie App(Ongoing)</td>
+    <td>Movie App</td>
     <td> <a href='https://miovie-app.netlify.app/' target='_blank'>Live Demo</a> </td>
   </tr>
  <tr>
