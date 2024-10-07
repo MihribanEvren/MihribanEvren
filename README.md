@@ -115,7 +115,7 @@
 <div align="center">
 <h3 align="center">Socials:</h3>
 <a href="https://www.linkedin.com/in/mihribanevren" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/myy_universe" target="blank"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" /></a>
+<a href="https://x.com/fleraine_" target="blank"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" /></a>
 <a href="https://instagram.com/mihribann_n" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
