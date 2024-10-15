@@ -122,8 +122,8 @@
 <br/>
 <div align="center">
 <h3 align="center">Tech Stack:</h3>
-    <img src="https://skillicons.dev/icons?i=express,mongodb,nodejs,react,javascript,typescript,tailwind,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=html,css,python,typescript,redux,php,laravel,mysql,jquery,npm,postman,github,git,netlify" /><br>
+    <img src="https://skillicons.dev/icons?i=express,mongodb,nodejs,react,javascript,typescript,python,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,redux,php,laravel,mysql,jquery,npm,postman,github,git,netlify" /><br>
 </div>
 
 <br/>
