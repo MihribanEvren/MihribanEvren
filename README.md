@@ -6,7 +6,7 @@
 
 <div align="center">
 <h4>
-🔭 My goal is to become a well-equipped web developer by specializing in Mern Stack.
+🔭 My goal is to become a well-equipped web developer 
 </h4>
 <div/>
  
