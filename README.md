@@ -36,6 +36,11 @@
   </tr>
  <tr>
     <td>#</td>
+    <td>Quiz App v2</td>
+    <td> <a href='https://quiz-app-case.netlify.app' target='_blank'>Live Demo</a> </td>
+  </tr>
+ <tr>
+    <td>#</td>
     <td>Pizza Order App</td>
     <td> <a href='https://pizzaorderreactapp.netlify.app/' target='_blank'>Live Demo</a> </td>
   </tr>
