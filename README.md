@@ -21,6 +21,16 @@
   </tr>
  <tr>
     <td>#</td>
+    <td>Management Dashboard</td>
+    <td> <a href='https://cheerful-heliotrope-cd3f8e.netlify.app/' target='_blank'>Live Demo</a> </td>
+  </tr>
+ <tr>
+    <td>#</td>
+    <td>Landing Page</td>
+    <td> <a href='https://collers-sneakers.netlify.app/' target='_blank'>Live Demo</a> </td>
+  </tr>
+ <tr>
+    <td>#</td>
     <td>Pizza Order App</td>
     <td> <a href='https://pizzaorderreactapp.netlify.app/' target='_blank'>Live Demo</a> </td>
   </tr>
