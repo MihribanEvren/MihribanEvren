@@ -31,13 +31,13 @@
   </tr>
  <tr>
     <td>#</td>
-    <td>Pizza Order App</td>
-    <td> <a href='https://pizzaorderreactapp.netlify.app/' target='_blank'>Live Demo</a> </td>
+    <td>Movie App</td>
+    <td> <a href='https://miovie-app.netlify.app/' target='_blank'>Live Demo</a> </td>
   </tr>
  <tr>
     <td>#</td>
-    <td>Movie App</td>
-    <td> <a href='https://miovie-app.netlify.app/' target='_blank'>Live Demo</a> </td>
+    <td>Pizza Order App</td>
+    <td> <a href='https://pizzaorderreactapp.netlify.app/' target='_blank'>Live Demo</a> </td>
   </tr>
  <tr>
     <td>#</td>
