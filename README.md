@@ -127,6 +127,14 @@
 
 <br/>
 
+<p align="center">
+  <a href="#">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=MihribanEvren&repo=github-visitors-badge&countColor=%237B1E7A" />
+   </a>
+</p>
+
+<br/>
+
 <div align="center">
 <h3 align="center">Socials:</h3>
 <a href="https://www.linkedin.com/in/mihribanevren" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
