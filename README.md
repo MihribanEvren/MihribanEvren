@@ -21,6 +21,11 @@
   </tr>
  <tr>
     <td>#</td>
+    <td>Parallax Effect</td>
+    <td> <a href='https://ma-animations.netlify.app/' target='_blank'>Live Demo</a> </td>
+  </tr>
+ <tr>
+    <td>#</td>
     <td>Management Dashboard</td>
     <td> <a href='https://cheerful-heliotrope-cd3f8e.netlify.app/' target='_blank'>Live Demo</a> </td>
   </tr>
