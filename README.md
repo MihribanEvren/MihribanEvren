@@ -1,13 +1,15 @@
 <div align="center">
  <a href="https://github.com/MihribanEvren">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF6096&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Mihriban+Evren+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF6096&center=true&vCenter=true&width=435&lines=%e2%9c%a8Hello+👋+I+am+Mihriban+%e2%9c%a8;%f0%9f%93%9a+I+am+a+Frontend+Developer+%f0%9f%92%bb" alt="Typing SVG" />
  </a>
 </div>
 
 <div align="center">
-<h4>
-🔭 My goal is to become a well-equipped web developer 
-</h4>
+<p>
+🔭 My goal is to become a well-equipped web developer. I love learning new technologies. Creating responsive, user-friendly interfaces excites me. Vibrancy  and dynamic pages with responsive, interactive interfaces as well as animations inspire me.  
+</p>
+ <p>
+🌐 If you are looking for a Frontend Developer who is energetic and enthusiastic, ready to overcome challenges and contribute to your project, do not hesitate to contact me! I would be happy to discuss potential collaboration opportunities.</p>
 <div/>
  
 <br/>
@@ -150,8 +152,7 @@
 <br/>
 <div align="center">
 <h3 align="center">Tech Stack:</h3>
-    <img src="https://skillicons.dev/icons?i=express,mongodb,nodejs,react,javascript,typescript,python,tailwind,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=html,css,redux,php,laravel,mysql,jquery,npm,postman,github,git,netlify" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,react,javascript,typescript,tailwind,bootstrap,express,mongodb,nodejs,redux,mysql,jquery" />
 </div>
 
 <br/>
