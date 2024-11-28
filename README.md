@@ -1,6 +1,6 @@
 <div align="center">
  <a href="https://github.com/MihribanEvren">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=EB74FF&width=435&lines=Hello!%F0%9F%91%8B+I+am+Mihriban!;I+am+a+Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=EB74FF&width=435&lines=Hello!%F0%9F%91%8B+I+am+Mihriban!;I+am+a+Frontend+Developer%F0%9F%AB%A7" alt="Typing SVG" />
  </a>
 </div>
 
