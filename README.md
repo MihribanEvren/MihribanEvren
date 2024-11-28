@@ -4,7 +4,7 @@
  </a>
 </div>
 
-<div align="center">
+<div align="start">
 <p>
 🔭 My goal is to become a well-equipped web developer. I love learning new technologies. Creating responsive, user-friendly interfaces excites me. Vibrancy  and dynamic pages with responsive, interactive interfaces as well as animations inspire me.  
 </p>
