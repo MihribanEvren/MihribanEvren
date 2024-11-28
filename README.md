@@ -11,6 +11,13 @@
  <p>
 🌐 If you are looking for a Frontend Developer who is energetic and enthusiastic, ready to overcome challenges and contribute to your project, do not hesitate to contact me! I would be happy to discuss potential collaboration opportunities.</p>
 <div/>
+
+<br/>
+<div align="center">
+<h3 align="center">Tech Stack:</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,react,javascript,typescript,tailwind,bootstrap,express,mongodb,nodejs,redux,mysql,jquery" />
+</div>
+
  
 <br/>
 
@@ -132,13 +139,7 @@
 </table>
 <div/>
 
-<br/>
 
-<p align="center">
-  <a href="#">
-      <img src="https://api.visitorbadge.io/api/VisitorHit?user=MihribanEvren&repo=github-visitors-badge&countColor=%237B1E7A" />
-   </a>
-</p>
 
 <br/>
 
@@ -149,11 +150,6 @@
 <a href="https://instagram.com/mihribann_n" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
-<br/>
-<div align="center">
-<h3 align="center">Tech Stack:</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,react,javascript,typescript,tailwind,bootstrap,express,mongodb,nodejs,redux,mysql,jquery" />
-</div>
 
 <br/>
 
@@ -162,4 +158,12 @@
 <br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihribanevren&show_icons=true&locale=en&layout=compact" alt="mihribanevren" /></p>
+
+<br/>
+
+<p align="center">
+  <a href="#">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=MihribanEvren&repo=github-visitors-badge&countColor=%237B1E7A" />
+   </a>
+</p>
 
